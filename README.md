@@ -64,23 +64,81 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Amazfit is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+Zepp Health, operating under the Amazfit brand, develops wearable devices and health-focused applications that empower individuals to monitor and improve their well‑being. Their product lineup includes smartwatches, fitness trackers, and a companion mobile app offering features such as heart‑rate monitoring, sleep analysis, activity tracking, and personalized health insights. Zepp Health emphasizes seamless integration of hardware and software to deliver an engaging user experience that inspires joy and promotes a healthier lifestyle.
 
-**Areas:** Company
+**Areas:** Company · Wearables · Health · IoT · ConsumerTech
 
 ## Amazfit on APIs.io
 
 Everything profiled for Amazfit is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/zepp-health/](https://apis.io/providers/zepp-health/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [Zepp Health API](https://apis.io/apis/zepp-health/zepp-health-api/) — API for Zepp Health wearable devices and health data, documented at the Zepp developer portal.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Zepp Health Domain Security](https://apis.io/security/zepp-health/zepp-health-domain-security/)
 
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://zepp.com/)
+- [Documentation](https://dev.zepp.com/)
+- [Getting started](https://docs.zepp.com/docs/guides/quick-start/)
+- [Blog](https://zepp.com/blog)
+- [Terms of service](https://zepp.com/terms-and-conditions)
+- [Privacy policy](https://zepp.com/privacy-policy)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/zepp-health/](https://apis.io/providers/zepp-health/).
+**Kin Score 23.6** — emerging · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 47.6 |
+| Access clarity | 21.1 |
+
+**Agent readiness 10.5** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | platform (partial credit) |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 10.9** — Health
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/zepp-health/](https://apis.io/providers/zepp-health/).
 
 ## How this profile is made
 
